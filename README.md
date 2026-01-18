@@ -11,3 +11,7 @@ The system combines cryptographic primitives and statistical defenses to ensure 
 A sentinel module evaluates each client update on a public validation dataset and filters out contributions that degrade the macro-F1 score in real time.
 
 The framework was tested against multiple adversarial scenarios, including Sign-Flip, Byzantine, and stealthy data poisoning attacks, demonstrating strong resilience with limited computational overhead and no external infrastructure requirements.
+
+## Academic Context
+This project was developed as part of a Master's thesis in Cyber Security.
+
